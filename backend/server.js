@@ -6,7 +6,7 @@ import API from './routers/api.route.js'
 const app = express();
 app.use(express.json());
 
-app.use("api", API);
+app.use("/api", API);
 
 const PORT = process.env.PORT || 5000;
 

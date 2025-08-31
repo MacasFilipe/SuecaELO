@@ -1,4 +1,4 @@
-import Model from "./Model.js";
+import Model from "./model.js";
 
 const playerSchema = {
   id: "INTEGER PRIMARY KEY AUTOINCREMENT",
