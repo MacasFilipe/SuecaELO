@@ -1,1 +1,7 @@
 node_modules/*
+
+
+# Data bases
+*.db
+*.db-shm
+*.db-wal
